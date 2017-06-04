@@ -41,7 +41,7 @@ Invite the bot to a Slack channel.
 
 Get a lunch recommendation by writing:
 
-`@lunchplejs tipsa`
+`@lunchplejs tips`
 
 Print usage:
 
