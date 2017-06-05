@@ -1,4 +1,7 @@
+
 # LunchPlejs (Slack bot)
+
+![](https://s23.postimg.org/kvdvoj3wr/hungrybunny.png)
 
 Recommends (by randomizing) a lunch place in central Stockholm by parsing HTML from http://www.kvartersmenyn.se/.
 
